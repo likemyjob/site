@@ -1,2 +1,3 @@
 <?php
-dsgdfgdsf
+echo "Hello";
+?>
